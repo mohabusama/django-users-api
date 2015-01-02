@@ -19,7 +19,7 @@ setup(
     author_email='mohab.usama@gmail.com',
     url='https://github.com/mohabusama/django-users-api',
     packages=find_packages(exclude=['tests']),
-    # license=open('LICENSE').read(),
+    license=open('LICENSE').read(),
     zip_safe=False,
     tests_require=(
         'django-setuptest', 'django>=1.4', 'django-tastypie>=0.12.1'),
