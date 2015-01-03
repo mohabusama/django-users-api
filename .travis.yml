@@ -12,4 +12,4 @@ script:
   - 'pep8 .'
   - 'python setup.py test'
 after_success:
-  - 'coveralls -d coverage.xml'
+  - 'coveralls'
