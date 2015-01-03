@@ -1,0 +1,4 @@
+[run]
+omit = users_api/tests/*, tests/*
+source = users_api
+include = users_api/*

@@ -10,6 +10,6 @@ install:
 # command to run tests
 script:
   - 'pep8 .'
-  - 'python setup.py test'
+  - 'coverage run setup.py test'
 after_success:
   - 'coveralls'
