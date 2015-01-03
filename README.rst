@@ -4,7 +4,18 @@ Django Users API
 
 .. image:: https://travis-ci.org/mohabusama/django-users-api.svg?branch=master
     :target: https://travis-ci.org/mohabusama/django-users-api
-
+.. image:: https://pypip.in/version/django-users-api/badge.svg
+    :target: https://pypi.python.org/pypi/django-users-api/
+    :alt: Latest Version
+.. image:: https://pypip.in/status/django-users-api/badge.svg
+    :target: https://pypi.python.org/pypi/django-users-api/
+    :alt: Development Status
+.. image:: https://pypip.in/license/django-users-api/badge.svg
+    :target: https://pypi.python.org/pypi/django-users-api/
+    :alt: License
+.. image:: https://pypip.in/download/django-users-api/badge.svg
+    :target: https://pypi.python.org/pypi//django-users-api/
+    :alt: Downloads
 
 Django users RESTful API using `Tastypie <https://django-tastypie.readthedocs.org/en/latest/toc.html>`_. This django app provides RESTful interface to:
 
