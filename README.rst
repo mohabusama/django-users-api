@@ -6,7 +6,7 @@ Django Users API
     :target: https://travis-ci.org/mohabusama/django-users-api
 
 
-Django users RESTful API using Tastypie. This django app provides RESTful interface to:
+Django users RESTful API using `Tastypie <https://django-tastypie.readthedocs.org/en/latest/toc.html>`_. This django app provides RESTful interface to:
 
 - `Django User <https://docs.djangoproject.com/en/1.6/topics/auth/default/#user-objects>`_
 - `Django Group <https://docs.djangoproject.com/en/1.6/topics/auth/default/#groups>`_
@@ -299,3 +299,7 @@ Extend
 Django-users-api resources are based on Tastypie `ModelResource class <https://django-tastypie.readthedocs.org/en/latest/resources.html#why-class-based>`_, which gives you the ability to extend and override any of the *users_api* resources.
 
 
+License
+=======
+
+`MIT License <https://github.com/mohabusama/django-users-api/blob/master/LICENSE>`_.
